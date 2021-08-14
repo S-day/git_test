@@ -1,0 +1,1 @@
+This is SummerSaltz's first git project!
